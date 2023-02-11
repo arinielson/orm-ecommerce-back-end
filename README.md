@@ -2,11 +2,20 @@
 
 ## Description
 
-Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
+Built the back end for an e-commerce site. Configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
-Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+## Instructions
 
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
+In .env file input your mysql user, password, & database information then save.
+
+Open the terminal in the root directory & enter the following:
+
+* mysql -u [user] -p
+* enter your mysql password
+* SOURCE db/schema.sql
+* quit
+* npm run seed
+* npm start
 
 ## User Story
 
@@ -51,6 +60,8 @@ Your walkthrough video should also show the POST, PUT, and DELETE routes for pro
 ## Links
 
 GitHub: https://github.com/arinielson/orm-ecommerce-back-end
+
+Video: 
 
 
 ## Credits
