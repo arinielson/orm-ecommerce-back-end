@@ -43,25 +43,23 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
-The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
+The following image shows an example of the application's GET routes to return all categories being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./assets/13-orm-homework-demo-01.gif)
+![In Insomnia, the user tests “GET ALL Categories”.](./assets/all-categories-insomnia.jpg)
 
-The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+The following image shows an example of the application's GET routes to return a single product being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./assets/13-orm-homework-demo-02.gif)
+![In Insomnia, the user tests “GET Product by id”.](./assets/product-by-id-insomnia.jpg)
 
-The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+The following image shows an example of the application's POST routes for tags being tested in Insomnia:
 
-![In Insomnia, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./assets/13-orm-homework-demo-03.gif)
-
-Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
+![In Insomnia, the user tests "CREATE tag”.](./assets/create-tag-insomnia.jpg)
 
 ## Links
 
 GitHub: https://github.com/arinielson/orm-ecommerce-back-end
 
-Video: 
+Video: https://drive.google.com/file/d/1Kd1HHgPNnyJ3ML3th00dtd5wiv4MfqkU/view
 
 
 ## Credits
